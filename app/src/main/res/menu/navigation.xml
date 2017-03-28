@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_notif"
+        android:icon="@drawable/draw_notif"
+        android:title="@string/draw_notif" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/draw_news"
+        android:title="@string/draw_news" />
+
+    <item
+        android:id="@+id/navigation_ideate"
+        android:icon="@drawable/draw_ideate"
+        android:title="@string/draw_ideate" />
+
+
+    <item
+        android:id="@+id/navigation_investor"
+        android:icon="@drawable/draw_investor"
+        android:title="@string/draw_investor" />
+
+    <item
+        android:id="@+id/navigation_fortune"
+        android:icon="@drawable/draw_fortune"
+        android:title="@string/draw_fortune" />
+
+</menu>
