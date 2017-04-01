@@ -13,6 +13,15 @@
     <string name="convo_view">View</string>
     <string name="convo_chat">Chat</string>
     <string name="convo_register">Register</string>
-
+    <string name="instr_growth">These areas feature the trends in demand, but where no initiative has been taken towards fulfillment of those demands. This feature urges the users to think on these areas and innovate. </string>
+    <string name="instr_events">This section intimates you of the related startup/business events like workshops, seminars, conferences etc, in and around you. With a click of the button, you may view further details of the event. </string>
+    <string name="instr_articles">This section provides numerous interesting and relevant articles to nurture your mind to think up ideas. </string>
+    <string name="instr_videos"> Missing out on nothing by watching latest videos that enhance your knowledge inflow. </string>
+    <string name="instr_policies">Find all the legal, corporate and judicial, policies and schemes in place by the Government about business enterprises. </string>
+    <string name="instr_write">Post articles that express your views and share it to receive constructive feedback.</string>
+    <string name="instr_view">View your own posted articles and that of others to expand your horizon.</string>
+    <string name="instr_chat">Have conversations with other members about any of the posts. Benefit from chat sessions with various field experts online who can answer any questions you might have. </string>
+    <string name="instr_register">Are you an incubator looking to invest in potentially million dollar startups? List yourself here by filling up a simple form and get in touch with brilliant minds with a host of ideas. </string>
+    <string name="instr_view2">Look up potential investors who might be interested in investing in your idea and fulfill your dreams. Do not lose out on the chance to see your ideas come to life. </string>
 
 </resources>

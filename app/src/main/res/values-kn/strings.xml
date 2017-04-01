@@ -13,4 +13,6 @@
     <string name="convo_register">ನೋಂದಣಿ</string>
     <string name="convo_investor">ಅಕ್ಷಯಪಾತ್ರೆಗೆ</string>
     <string name="convo_chat">ಚಾಟಿಂಗ್</string>
+    <string name="instr_articles"></string>
+    <string name="instr_chat"></string>
 </resources>
