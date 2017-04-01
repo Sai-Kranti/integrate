@@ -74,11 +74,11 @@ public class IdeateActivity extends BaseActivity {
         @Override public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Write";
+                    return getString(R.string.convo_write);
                 case 1:
-                    return "View";
+                    return getString(R.string.convo_view);
                 case 2:
-                    return "Chat";
+                    return getString(R.string.convo_chat);
             }
             return null;
         }

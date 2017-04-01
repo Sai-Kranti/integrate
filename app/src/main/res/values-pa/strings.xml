@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Genesis</string>
+
+    <string name="convo_notif">  ਸੂਚਨਾ </string>
+    <string name="convo_growth"> ਵਿਕਾਸ ਦਰ ਦੇ ਖੇਤਰ </string>
+    <string name="convo_events">ਸਮਾਗਮ  </string>
+    <string name="convo_news"> ਨਿਊਜ਼ </string>
+    <string name="convo_articles"> ਲੇਖ </string>
+    <string name="convo_videos"> ਵੀਡੀਓ  </string>
+    <string name="convo_policies"> ਡਰਾਇਰ </string>
+    <string name="convo_ideate"> ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ </string>
+    <string name="convo_write"> ਲਿਖੋ </string>
+    <string name="convo_view"> ਦੇਖੋ </string>
+    <string name="convo_chat"> ਚੈਟ </string>
+    <string name="convo_investor"> ਇੰਕੂਵੇਟਰ </string>
+    <string name="convo_rigester"> ਰਜਿਸਟਰ </string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Genesis</string>
+    <string name="convo_notif">સૂચનાઓ</string>
+    <string name="convo_growth">વૃદ્ધિ વિસ્તારોમાં</string>
+    <string name="convo_events">ઘટનાઓ</string>
+    <string name="convo_news">સમાચાર</string>
+    <string name="convo_articles">લેખ</string>
+    <string name="convo_videos">વિડિઓઝ</string>
+    <string name="convo_policies">નીતિઓ</string>
+    <string name="convo_ideate">રચાયેલ</string>
+    <string name="convo_write">લખો</string>
+    <string name="convo_view">જુઓ</string>
+    <string name="convo_chat">ચેટ</string>
+    <string name="convo_investor">ઉષ્માનિયંત્રક</string>
+    <string name="convo_register">રજિસ્ટર</string>
+</resources>

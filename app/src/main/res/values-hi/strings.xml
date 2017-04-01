@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Genesis</string>
+    <string name="convo_notif">सूचनाएं</string>
+    <string name="convo_growth">विकास क्षेत्रों</string>
+    <string name="convo_events">आयोजन</string>
+    <string name="convo_news">"समाचार "</string>
+    <string name="convo_articles">लेख</string>
+    <string name="convo_videos">वीडियो</string>
+    <string name="convo_policies">नीतियां</string>
+    <string name="convo_ideate">डिजाइन किए</string>
+    <string name="convo_write">" लिखना"</string>
+    <string name="convo_view">राय</string>
+    <string name="convo_chat">चैट करें</string>
+    <string name="convo_investor">इनक्यूबेटर</string>
+    <string name="convo_register">रजिस्टर</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

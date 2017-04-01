@@ -22,7 +22,6 @@
 
 
         <activity android:name=".InvestorActivity" />
-        <activity android:name=".FortuneActivity"></activity>
     </application>
 
 </manifest>

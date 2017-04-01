@@ -72,9 +72,9 @@ public class NotifActivity extends BaseActivity{
         @Override public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Growth Areas";
+                    return getString(R.string.convo_growth);
                 case 1:
-                    return "Events";
+                    return getString(R.string.convo_events);
 
             }
             return null;

@@ -73,9 +73,9 @@ public class InvestorActivity extends BaseActivity {
         @Override public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Register";
+                    return getString(R.string.convo_register);
                 case 1:
-                    return "View";
+                    return getString(R.string.convo_view);
 
             }
             return null;

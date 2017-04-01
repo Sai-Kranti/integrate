@@ -55,10 +55,7 @@ public abstract class BaseActivity extends AppCompatActivity
                     startActivity(new Intent(this, InvestorActivity.class));
 
                     break;
-                case R.id.navigation_fortune:
-                    startActivity(new Intent(this, FortuneActivity.class));
 
-                    break;
             }
 
             finish();

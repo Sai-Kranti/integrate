@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 
+import static com.example.android.monday.R.string.convo_articles;
+
 public class NewsActivity extends BaseActivity {
 
     private SectionsPagerAdapter mSectionsPagerAdapter;
@@ -72,11 +74,11 @@ public class NewsActivity extends BaseActivity {
         @Override public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Articles";
+                    return getString(R.string.convo_articles);
                 case 1:
-                    return "Videos";
+                    return getString(R.string.convo_videos);
                 case 2:
-                    return "Government Policies";
+                    return getString(R.string.convo_policies);
             }
             return null;
         }

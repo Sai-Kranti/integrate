@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Genesis</string>
+
+   <string name="convo_notif">ప్రకటనలు</string>
+   <string name="convo_growth">  వృద్ధి ప్రాంతాల్లో</string>
+   <string name="convo_events"> ఈవెంట్స్ </string>
+   <string name="convo_news">  న్యూస్ </string>
+   <string name="convo_articles">  వ్యాసాలు </string>
+   <string name="convo_video">  వీడియోలు </string>
+   <string name="convo_policies"> నియమాలు </string>
+   <string name="convo_ideate"> రూపకల్పన </string>
+   <string name="convo_write"> వ్రాయడానికి </string>
+   <string name="convo_view"> చూడండి </string>
+   <string name="convo_chat"> చాట్  </string>
+   <string name="convo_investor"> ఇంక్యుబేటర్ </string>
+   <string name="convo_register"> నమోదు </string>
+
+
+</resources>
