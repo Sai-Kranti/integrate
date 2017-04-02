@@ -59,8 +59,6 @@ public class NewsActivity extends BaseActivity {
                     return new ArticlesFragment();
                 case 1:
                     return new VideosFragment();
-                case 2:
-                    return new GovernmentPoliciesFragment();
                 default:
                     return null;
             }
@@ -68,7 +66,7 @@ public class NewsActivity extends BaseActivity {
 
         @Override public int getCount() {
             // Show 3 total pages.
-            return 3;
+            return 2;
         }
 
         @Override public CharSequence getPageTitle(int position) {
@@ -77,8 +75,7 @@ public class NewsActivity extends BaseActivity {
                     return getString(R.string.convo_articles);
                 case 1:
                     return getString(R.string.convo_videos);
-                case 2:
-                    return getString(R.string.convo_policies);
+
             }
             return null;
         }
