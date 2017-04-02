@@ -20,9 +20,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".InfoActivity" />
-        <activity android:name=".FTActivity" />
-        <activity android:name=".TailorActivity"></activity>
+        <activity android:name=".InfoActivity"
+            android:noHistory="true"/>
+        <activity android:name=".FTActivity"
+            android:noHistory="true"/>
+        <activity android:name=".TailorActivity"
+            android:noHistory="true"></activity>
     </application>
 
 </manifest>

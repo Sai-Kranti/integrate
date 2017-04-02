@@ -23,5 +23,19 @@
     <string name="instr_chat">Have conversations with other members about any of the posts. Benefit from chat sessions with various field experts online who can answer any questions you might have. </string>
     <string name="instr_register">Are you an incubator looking to invest in potentially million dollar startups? List yourself here by filling up a simple form and get in touch with brilliant minds with a host of ideas. </string>
     <string name="instr_view2">Look up potential investors who might be interested in investing in your idea and fulfill your dreams. Do not lose out on the chance to see your ideas come to life. </string>
+    <string name="matter_startup">A startup is company that has just begun to develop. These companies are initially powered by a single individual or a small group of individuals working towards the development of the same company. They usually aim at producing goods or services that are not already available in the market or if available, are present in negligible scales.
+Startups initially make no profits.\n\n\n\n It usually takes a period of few years before the startup establishes itself and becomes a source of revenue. The Governments of multiple developing countries, like India, are providing financial support to these startups in order to encourage larger amounts of people into it.</string>
+
+    <string name="matter_dis">·      You can be your own boss. \n\n
+·      Do jobs you are not qualified for. \n\n
+·      Opens doors for more opportunities.\n\n
+·      Teaches one to be more responsible.\n\n
+·      Provides you with a chance at handling different jobs.\n\n
+·      Brings you in contact with various innovators you can learn a good deal from.\n\n
+·      Provides access to ample amounts of knowledge.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
