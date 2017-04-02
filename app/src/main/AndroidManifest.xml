@@ -9,19 +9,20 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".NotifActivity">
+        <activity android:name=".NotifActivity" />
+        <activity android:name=".NewsActivity" />
+        <activity android:name=".IdeateActivity" />
+        <activity android:name=".InvestorActivity" />
+        <activity android:name=".VeryFinalActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".NewsActivity" />
-        <activity android:name=".IdeateActivity"
-            />
-
-
-        <activity android:name=".InvestorActivity" />
+        <activity android:name=".InfoActivity" />
+        <activity android:name=".FTActivity" />
+        <activity android:name=".TailorActivity"></activity>
     </application>
 
 </manifest>
